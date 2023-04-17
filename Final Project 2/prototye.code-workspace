@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../project 2/using var robot"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../p5MousePressedFunction"
+		},
+		{
+			"path": "../project 2/P5varAndloops"
+		},
+		{
+			"path": "../YuLi_Henry_modify drawing example (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "using var robot"
+	}
+}
